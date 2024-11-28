@@ -34,7 +34,7 @@ Submitted to IPCAI 2025, [paper link](https://arxiv.org/abs/2410.20026).
 ![Illustration for DSC](assets/dt_spr.jpg)
 
 #### **Neural Finite-State Machine for Surgical Phase Recognition** ####
-[paper link]().
+[paper link](https://arxiv.org/abs/2411.18018).
 
 ![Illustration](assets/nfsm.jpg)
 
